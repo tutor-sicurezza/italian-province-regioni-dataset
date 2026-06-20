@@ -1,0 +1,33 @@
+{
+  "name": "italian-province-regioni-dataset",
+  "version": "1.0.0",
+  "description": "Dataset delle 110 province italiane e delle 20 regioni con sigla automobilistica, codici ISTAT, ATECO prevalenti e contesto economico-produttivo.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "data"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "italia",
+    "province",
+    "regioni",
+    "istat",
+    "ateco",
+    "dataset",
+    "local-seo"
+  ],
+  "author": "tutor-sicurezza",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutor-sicurezza/italian-province-regioni-dataset.git"
+  },
+  "devDependencies": {
+    "typescript": "5.6"
+  }
+}
