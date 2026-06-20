@@ -1,5 +1,10 @@
 # italian-province-regioni-dataset
 
+[![License: MIT + CC BY 4.0](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-blue.svg)](./LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/italian-province-regioni-dataset)](https://github.com/tutor-sicurezza/italian-province-regioni-dataset/releases)
+[![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/italian-province-regioni-dataset?style=social)](https://github.com/tutor-sicurezza/italian-province-regioni-dataset/stargazers)
+[![CI](https://github.com/tutor-sicurezza/italian-province-regioni-dataset/actions/workflows/ci.yml/badge.svg)](https://github.com/tutor-sicurezza/italian-province-regioni-dataset/actions/workflows/ci.yml)
+
 Dataset open delle **110 province italiane** e delle **20 regioni**, con metadati utili a chi sviluppa siti, dashboard, generatori di contenuti local-SEO e knowledge base per chatbot di settore in Italia.
 
 Per ogni provincia: nome ufficiale, slug stabile, sigla automobilistica, regione di appartenenza, flag *capoluogo di regione*, codice ISTAT e primi codici **ATECO 2007** prevalenti sul territorio. Per ogni regione: codice ISTAT, capoluogo, tipo di statuto (ordinario / speciale) e un paragrafo descrittivo del **tessuto economico-produttivo** (distretti industriali, filiere prevalenti, fabbisogno formativo).
