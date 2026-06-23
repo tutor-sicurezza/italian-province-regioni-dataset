@@ -1,0 +1,46 @@
+{
+  "title": "Italian Province e Regioni Dataset — anagrafica territoriale ISTAT",
+  "description": "Dataset anagrafico delle 20 regioni e 107 province italiane (incluse città metropolitane) in formato JSON e CSV. Include codici ISTAT, codici catastali, sigle automobilistiche, capoluoghi, gerarchie regione→provincia→comune. Allineato con la classificazione amministrativa ISTAT vigente al 2026 (decreti istitutivi delle province autonome inclusi).",
+  "upload_type": "dataset",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "regioni",
+    "province",
+    "istat",
+    "anagrafica-territoriale",
+    "open-data",
+    "geocoding",
+    "amministrazione"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/italian-province-regioni-dataset",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "ISTAT — Codici statistici delle unità amministrative territoriali",
+    "Legge 7 aprile 2014 n. 56 (Delrio) — Disposizioni su città metropolitane, province e unioni di comuni"
+  ],
+  "publication_date": "2026-06-23"
+}
